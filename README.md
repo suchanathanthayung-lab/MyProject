@@ -1,5 +1,4 @@
-# MyProject
-# Concurrent Chat Server (C, Linux, select)
+# Project Concurrent Chat Server (C, Linux, select)
 
 A simple concurrent TCP chat server and client written in C using `select()`.  
 Developed as a learning project to demonstrate **system programming** and basic **system engineering** practices.
